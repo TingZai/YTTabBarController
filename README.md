@@ -1,0 +1,7 @@
+# YTTabBarController
+系统自带的UITabBarController，tabBar上能显示的内容和样式有限。YTTabBarController可以自由控制tabBar上的显示样式，能够满足绝大部分APP的需求.
+
+主要功能:
+1.自由控制tabBar上按钮的显示大小和位置
+2.选择是否隐藏tabBar上自带的黑色的分割线
+3.可以在tabBar的中间位置添加突出视图
